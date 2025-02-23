@@ -34,4 +34,7 @@ b7df72d7-9109-4ebd-b1ed-d6866cabab87
 {5,05f2d9ce-1c8a-4122-85c9-6fa568ff9925,"Константа.НазваниеФонда",7},
 {5,6fe0cc8e-16ab-474b-9164-93c0810a41dd,"Константа.АдресФонда",8},
 {4,"_$InfoBase$_.DumpStart",15},
-{4,"_$InfoBase$_.DumpFinish",16}
+{4,"_$InfoBase$_.DumpFinish",16},
+{4,"_$PerformError$_",17},
+{4,"_$Transaction$_.Rollback",18},
+{4,"_$Data$_.Unpost",19}
